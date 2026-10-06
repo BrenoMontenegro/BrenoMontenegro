@@ -1,18 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Olá!+👋;Sou+o+Breno+Montenegro!;Dados+%2B+Software+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Ol%C3%A1!+%F0%9F%91%8B;Sou+Breno+Montenegro!;Dados+%2B+Software+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
-
----
 
 ### Quem sou eu?
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPE**, de Pernambuco, Brasil. Gosto de trabalhar com **dados**: transformar dados brutos em análises e modelos que ajudam a tomar decisões. Também tenho base sólida em **desenvolvimento de software**, com experiência full stack.
+
+### Graduação:
+- Instituto Federal de Pernambuco - Em andamento
+
+### Experiência Profissional:
+- T-Maxx International - Freelancer/Independent Contractor
 
 ---
 
 # Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-montenegro-0a138b276/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breno.freitas1608@gmail.com)
 
 ---
 
